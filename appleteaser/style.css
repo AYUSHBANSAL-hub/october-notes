@@ -9,7 +9,7 @@
 nav{
     background-color: #303030;
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     padding: 10px;
     align-items: center;
 }
